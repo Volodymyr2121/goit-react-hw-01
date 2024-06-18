@@ -1,0 +1,13 @@
+.container{
+    align-items: center;
+    padding: 10px;
+    border: 1px solid;
+}
+
+.online {
+    color: green;
+}
+
+.offline {
+    color: red;
+}
